@@ -361,3 +361,4 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/ImGui DirectX 11 Kiero Hook/il2cpp.h
