@@ -1,8 +1,8 @@
-# Il2CPP-Base
+# Shotgun Farmers Cheat
 
-Base For Il2CPP Unity Game Hacking
+Il2cpp.h Header: https://mega.nz/file/XYolxKqI#3XR2XrizaH6ZJbnACFRcS1fVMEtYkEGGemJxT9JKa7Y
 
-Tutorial Video Using This base: [Youtube Video](https://www.youtube.com/watch?v=3Bs4AFIXmdU&t=279s)
+Base used: https://github.com/IdolTheDev/Il2CPP-Base
 
 Credits
 SneakyEvil For The Resolver - https://github.com/sneakyevil/IL2CPP_Resolver &
